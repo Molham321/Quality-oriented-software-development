@@ -1,6 +1,4 @@
-﻿  ring_buffer.cpp
-  vector.cpp
-  Generating Code...
+﻿  test_example.cpp
   test.vcxproj -> C:\Users\Molham.Alkhodari\Desktop\c++\qose\intern\build\win64\test\Debug\test_debug.exe
   ..\..\..\..\build\win64\test\Debug\test_debug.exe
           1 file(s) copied.

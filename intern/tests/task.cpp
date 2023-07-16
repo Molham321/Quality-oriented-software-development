@@ -84,7 +84,7 @@ char* CTask::GetCustomer()
 
 char* CTask::GetDescription()
 {
-    return m_pCustomer;
+    return m_pDescription;
 }
 
 void CTask::SetID(unsigned int _ID)

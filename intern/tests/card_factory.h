@@ -5,10 +5,10 @@
 
 class CCardFactory
 {
-public:
-	CCardFactory();
-	~CCardFactory();
+	public:
+		CCardFactory();
+		~CCardFactory();
 
-	CCard CreateCard(CCard::ECardColor _Color, CCard::ECardType _Type);
+		CCard CreateCard(CCard::ECardColor _Color, CCard::ECardType _Type);
 
 };
