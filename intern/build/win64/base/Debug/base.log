@@ -1,0 +1,10 @@
+﻿  core_asserthandler.cpp
+  core_assertmanager.cpp
+  core_nativeasserthandler.cpp
+  io_nativedebug.cpp
+  ut_stringify.cpp
+  ut_suite.cpp
+  Generating Code...
+  base.vcxproj -> C:\Users\Molham.Alkhodari\Desktop\c++\qose\intern\build\win64\base\Debug\base_debug.lib
+  ..\..\..\..\build\win64\base\Debug\base_debug.lib
+          1 file(s) copied.
